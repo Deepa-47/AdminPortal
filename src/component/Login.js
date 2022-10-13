@@ -49,7 +49,7 @@ export const Login = () => {
                 <input
                   type="text"
                   className="form-control"
-                  placeholder="Enter email"
+                  placeholder="deepa47"
                   value={username}
                   onChange={(e) => setUsername(e.target.value)}
                   required
@@ -59,7 +59,7 @@ export const Login = () => {
                 <input
                   type="password"
                   className="form-control"
-                  placeholder="Password"
+                  placeholder="deepa123"
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
                   required
