@@ -2,19 +2,19 @@
 
 This project was made with Reactjs, Redux and Bootstrap to manage Admin Dashboard.
 
-#Live
+# Live
 
 
 
-##Feactures
-*Login
-*Dashboard
-*Admin User
-*User Creation
-*User Updation
-*User Deletion
-*Search of users
-*Filters
+## Feactures
+* Login
+* Dashboard
+* Admin User
+* User Creation
+* User Updation
+* User Deletion
+* Search of users
+* Filters
 
 
 ##Screenshots
