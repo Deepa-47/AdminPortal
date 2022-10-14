@@ -3,7 +3,7 @@
 This project was made with ReactJS, Redux and Bootstrap to manage Admin Dashboard.
 
 # Live
-
+https://admin-portal-jade.vercel.app/
 
 
 ## Feactures
